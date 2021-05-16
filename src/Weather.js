@@ -61,7 +61,7 @@ const Weather = ({ value }) => {
         return (
 
           <>
-            <p>Rameez khan</p>
+            
             <p key={ind + 1} style={{ textAlign: "center" }}>{data1.temp} </p>
             <p key={ind - 1} style={{ textAlign: "center" }}>{data1.temp_min}</p>
             <p key={ind} style={{ textAlign: "center" }}>{data1.temp_max}</p>
