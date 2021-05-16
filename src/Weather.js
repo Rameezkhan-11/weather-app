@@ -11,7 +11,7 @@ const Weather = ({ value }) => {
 
   // console.log(weatherData[0].temp);
   let name1 = weatherData.name
-
+  
 
 
 
