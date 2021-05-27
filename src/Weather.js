@@ -66,7 +66,7 @@ const Weather = () => {
     <>
       <nav className="navbar navbar-light bg-dark">
         <div className="container-fluid bg-dark">
-          <a href="/" className="navbar-brand mx-auto text-white bg-dark">Weather App</a>
+          <a href="/" className="navbar-brand mx-auto text-white bg-dark">Weather App by Rameez</a>
          
         </div>
       </nav>
